@@ -6,16 +6,16 @@ High quality graphics are usually reserved for only the top streamers. We wanted
 That's why we created Motion Pro, an easy and user-friendly solution to editing high quality templates using [Discord](https://discord.com/). All of our graphics are made with [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) and intelligently rendered using the [Expressions](https://ae-expressions.docsforadobe.dev/) platform.
 
 ### Useful Links:
-* Quick Start
-* Commands List
-* Graphics Packages
-* Subscription Plans
-* Free Trial
+* [Quick Start](https://www.motionpro.wiki/getting-started/quick-start)
+* [Commands List](https://www.motionpro.wiki/user-guide/commands-list)
+* [Graphics Packages](https://www.motionpro.wiki/user-guide/graphics-packages)
+* [Subscription Plans](https://www.motionpro.wiki/subscriptions/subscription-plans)
+* [Free Trial](https://www.motionpro.wiki/subscriptions/free-trial)
 
 ### Informational Links:
-* Trello - Bugs & Roadmap
-* YouTube - Tutorials
-* Wiki - Documentation
+* [Trello - Bugs & Roadmap](https://trello.com/b/ufvWpC3f/motion-pro-bugs-roadmap)
+* [YouTube - Tutorials](https://www.youtube.com/@rspnmotionpro)
+* [Wiki - Documentation](https://www.motionpro.wiki/)
 
 # Quick Start
 **Learn how to start using Motion Pro to create high quality graphics.**
@@ -35,3 +35,9 @@ Locate one of the Bot Channels in our Official Discord. This will most likely be
 Make sure to follow [Motion Pro's Guidelines](https://www.motionpro.wiki/getting-started/guidelines), as well as check out the [other commands](https://www.motionpro.wiki/user-guide/commands-list) featured in our bot. For any questions or issues, check out the [FAQ](https://www.motionpro.wiki/troubleshooting/faq) and [Common Issues](https://www.motionpro.wiki/troubleshooting/common-issues) pages on our Wiki. If you're in need of support, check out the [Contacting Support](https://www.motionpro.wiki/troubleshooting/contacting-support) page
 
 # Features
+- [x] User friendly Discord modal based parameter input system.
+- [x] FFmpeg WebM conversion to decrease file size.
+- [x] Blazing fast render speeds. (30s - 1m)
+- [ ] Visualize what your graphic will look like before rendering.
+- [ ] Web app allowing you to render graphics without Discord.
+- [ ] Parameter templates removing the input of unneccesary parameters.
