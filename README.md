@@ -16,6 +16,7 @@ That's why we created Motion Pro, an easy and user-friendly solution to editing 
 * [Trello - Bugs & Roadmap](https://trello.com/b/ufvWpC3f/motion-pro-bugs-roadmap)
 * [YouTube - Tutorials](https://www.youtube.com/@rspnmotionpro)
 * [Wiki - Documentation](https://www.motionpro.wiki/)
+* [Status - Status & Uptime](https://stats.uptimerobot.com/X9ALxC4wyo)
 
 # Quick Start
 **Learn how to start using Motion Pro to create high quality graphics.**
