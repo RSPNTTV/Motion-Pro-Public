@@ -39,6 +39,6 @@ Make sure to follow [Motion Pro's Guidelines](https://www.motionpro.wiki/getting
 - [x] User friendly Discord modal based parameter input system.
 - [x] FFmpeg WebM conversion to decrease file size.
 - [x] Blazing fast render speeds. (30s - 1m)
+- [x] Parameter templates removing the input of unneccesary parameters.
 - [ ] Visualize what your graphic will look like before rendering.
 - [ ] Web app allowing you to render graphics without Discord.
-- [ ] Parameter templates removing the input of unneccesary parameters.
